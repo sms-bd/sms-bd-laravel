@@ -1,20 +1,20 @@
-# SMS.NET.BD SMS Package for Laravel
+# SMS.BD SMS Package for Laravel
 
 [![Packagist version](https://img.shields.io/packagist/v/sms_net_bd/sms?v=1)](https://packagist.org/packages/sms_net_bd/sms) [![mit](https://img.shields.io/badge/License-MIT-green)](https://packagist.org/packages/sms_net_bd/sms) ![Packagist Downloads](https://img.shields.io/packagist/dt/sms_net_bd/sms?v=1)
 
-SMS Package for Laravel - Simplify SMS integration with the SMS Gateway from [sms.net.bd](https://www.sms.net.bd/api). Send messages, check balance, get delivery reports, and manage SMS effortlessly in your Laravel applications.
+SMS Package for Laravel - Simplify SMS integration with the SMS Gateway from [sms.bd](https://www.sms.bd/api). Send messages, check balance, get delivery reports, and manage SMS effortlessly in your Laravel applications.
 
-The SMS Laravel package provides convenient access to the sms.net.bd REST API from php applications.
+The SMS Laravel package provides convenient access to the sms.bd REST API from php applications.
 
-Sign up for a [free sms.net.bd account](https://www.sms.net.bd/signup/) today and get your API Key from our advanced SMS platform. Plus, enjoy free credits to try out your API in full!
+Sign up for a [free sms.bd account](https://www.sms.bd/signup/) today and get your API Key from our advanced SMS platform. Plus, enjoy free credits to try out your API in full!
 
 ## Example
 
-Check out the other code [examples](https://www.sms.net.bd/api#:~:text=SMS%20API%20Code-,samples,-.)
+Check out the other code [examples](https://www.sms.bd/api#:~:text=SMS%20API%20Code-,samples,-.)
 
 ## Features
 
-- Send SMS messages through the [sms.net.bd sms gateway](https://www.sms.net.bd/api).
+- Send SMS messages through the [sms.bd sms gateway](https://www.sms.bd/api).
 - Schedule SMS messages for future delivery.
 - Send SMS to multiple recipients with sender id
 - Retrieve SMS delivery reports.
